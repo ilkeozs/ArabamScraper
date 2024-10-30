@@ -47,9 +47,9 @@ namespace ArabamScraper.BusinessLogic
             using (StreamWriter writer = new StreamWriter(filePath, true))
             {
                 writer.WriteLine();
-                writer.WriteLine($"Total Price Count: {totalPrices}");
+                writer.WriteLine($"Total Number of Ads: {totalPrices}");
                 writer.WriteLine($"Total Sum of Prices: {sum:N2} TL");
-                writer.WriteLine($"Arithmetic Average: {averagePrice:N2} TL");
+                writer.Write($"Arithmetic Average: {averagePrice:N2} TL");
             }
         }
     }
