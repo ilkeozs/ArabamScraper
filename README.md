@@ -1,6 +1,6 @@
 # ArabamScraper
 
-Note: This project was made for educational purposes.
+Note: This project was made for educational purposes. I am not responsible for illegal uses.
 
 <img width="750" height="375" src="ArabamScraper/Images/image_1.png">
 <img width="750" height="375" src="ArabamScraper/Images/image_2.png">
